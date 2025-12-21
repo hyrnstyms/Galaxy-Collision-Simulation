@@ -12,7 +12,7 @@ Amaç, galaksi çarpışmaları sırasında ortaya çıkan **yapısal bozulmalar
 
 ---
 
-## 📌 Proje İçeriği
+##  Proje İçeriği
 
 * Kütleçekimsel N-body sistemi modellemesi
 * İki galaksi için başlangıç konum ve hız dağılımlarının oluşturulması
@@ -22,7 +22,7 @@ Amaç, galaksi çarpışmaları sırasında ortaya çıkan **yapısal bozulmalar
 
 ---
 
-## 🧠 Kullanılan Yöntemler
+##  Kullanılan Yöntemler
 
 * **Newton’un Evrensel Çekim Yasası**
 * Sayısal integrasyon teknikleri
@@ -31,7 +31,7 @@ Amaç, galaksi çarpışmaları sırasında ortaya çıkan **yapısal bozulmalar
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 * Python 3
 * NumPy
@@ -53,7 +53,7 @@ nbody-galaxy-collision-simulation/
 
 ---
 
-## 🚀 Çalıştırma Talimatları
+##  Çalıştırma Talimatları
 
 ### 1️⃣ Gerekli paketleri yükleyin
 
@@ -90,7 +90,7 @@ Notebook, Google Colab üzerinde doğrudan çalıştırılabilir:
 
 ---
 
-## 📉 GitHub Notu
+##  GitHub Notu
 
 Bu repodaki Jupyter Notebook dosyasında **çıktılar (outputs) bilinçli olarak temizlenmiştir**. Bunun sebebi dosya boyutunu küçültmek ve GitHub önizleme sınırlarını aşmamaktır.
 
@@ -102,7 +102,7 @@ Runtime / Kernel → Restart & Run All
 
 ---
 
-## 🎯 Proje Amacı
+##  Proje Amacı
 
 Bu projenin temel amacı, **N-body problemini** temel alarak galaksi çarpışmaları gibi karmaşık fiziksel sistemlerin **sayısal yöntemler** yardımıyla nasıl modellenebileceğini göstermektir. Özellikle analitik çözümü mümkün olmayan çok parçacıklı sistemlerde, nümerik integrasyon tekniklerinin önemi vurgulanmaktadır.
 
@@ -119,4 +119,4 @@ Bu çalışma; sayısal analiz, hesaplamalı fizik ve astrofizik alanlarında ku
 
 ---
 
-✨ Her türlü geri bildirim ve geliştirme önerisine açıktır.
+
